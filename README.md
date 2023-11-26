@@ -76,7 +76,6 @@ Expand "Mirroring repository"
 (https://username@github.com/path-to/repository)
 
 Example :
-
-https://hazem-tekab@github.com/hazem-tekab/test-sync-github.git
+https://github.com/ghabianis/cli_commande_nestjs/edit/nestjs_cli_command.git
 
 - For the password, use a Github access token [How to create a github access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
